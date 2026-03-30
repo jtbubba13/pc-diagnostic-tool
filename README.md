@@ -33,3 +33,7 @@ A modular Python-based diagnostics platform designed to detect system health iss
 ```bash
 pip install -r requirements.txt
 python main.py
+
+📌 Author
+
+Joshua Given
